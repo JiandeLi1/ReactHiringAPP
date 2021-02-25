@@ -1,0 +1,15 @@
+.register_component{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%); 
+    width: 20rem;
+    height: 20rem;
+    text-align:center;
+}
+.title{
+    padding:0 3rem 0 3rem;
+    color:#fff;
+    border-radius: 3px 3px 0 0;
+    background-color: #3f51b5;
+}
