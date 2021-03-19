@@ -1,0 +1,29 @@
+
+.SingleInfo{
+ display: inline-block;
+ width:340px;
+ margin: 5px 0px;
+ border:solid 0.5px #ddd;
+}
+
+.SingleInfo>div{
+    margin: 3px;    
+}
+
+.infoHead{
+    height: 60px;
+    margin: 3px 0px;
+    padding: 0px 3px;
+    border-bottom: solid 1px #ddd;
+}
+
+.userAvatar{
+    float: left;
+    margin: 10px 5px;
+}
+.userName{
+    float: right;
+    margin: 25px;
+    color: #888;
+}
+

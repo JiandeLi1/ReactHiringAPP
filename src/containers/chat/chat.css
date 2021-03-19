@@ -1,0 +1,16 @@
+div{
+    width: 345px;
+}
+
+.other{
+    display: block;
+    width:fit-content;
+    margin: 5px 0px;
+}
+
+.me{
+    display: in;
+    margin: 5px 0px;
+    width:fit-content;
+    text-align: right;
+}

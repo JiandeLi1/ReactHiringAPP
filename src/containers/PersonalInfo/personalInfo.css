@@ -1,0 +1,19 @@
+.avatar{
+    text-align: center;
+    margin-left: 122px;
+}
+
+.information{
+    display: inline-block;
+    width:335px;
+    margin: 20px 5px;
+    
+}
+
+.information>div{
+    margin: 10px 5px;
+}
+
+.information>h3{
+    text-align: center;
+}

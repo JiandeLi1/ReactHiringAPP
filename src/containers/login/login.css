@@ -1,4 +1,4 @@
-.register_component{
+.login_component{
     position: absolute;
     top: 30%;
     left: 50%;
@@ -12,6 +12,15 @@
     color:#fff;
     border-radius: 3px 3px 0 0;
     background-color: #3f51b5;
+}
+
+#length{
+    height: 5rem;
+}
+
+
+.inside{
+  height: 602px;  
 }
 
 .error-msg{
